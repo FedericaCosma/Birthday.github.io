@@ -1,0 +1,17 @@
+{
+    "name": "genioam/birthday",
+    "autoload": {
+        "psr-4": {
+            "Genioam\\Birthday\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Federica Cosma",
+            "email": "cosmafederica@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
